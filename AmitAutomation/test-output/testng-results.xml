@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-27T17:28:48 IST" name="Default suite" finished-at="2024-09-27T17:29:05 IST" duration-ms="17557">
+    <groups>
+    </groups>
+    <test started-at="2024-09-27T17:28:48 IST" name="Default test" finished-at="2024-09-27T17:29:05 IST" duration-ms="17557">
+      <class name="saucedemotest.SauceDemo_test">
+        <test-method is-config="true" signature="SauceDemourl()[pri:0, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:48 IST" name="SauceDemourl" finished-at="2024-09-27T17:28:54 IST" duration-ms="6227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SauceDemourl -->
+        <test-method signature="fillonusername()[pri:1, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:54 IST" name="fillonusername" finished-at="2024-09-27T17:28:54 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillonusername -->
+        <test-method signature="fillonpassword()[pri:2, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:54 IST" name="fillonpassword" finished-at="2024-09-27T17:28:54 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillonpassword -->
+        <test-method signature="clickonloginbutton()[pri:3, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:54 IST" name="clickonloginbutton" finished-at="2024-09-27T17:28:55 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonloginbutton -->
+        <test-method signature="clickonSauceLabsFleeceJacket()[pri:4, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:55 IST" name="clickonSauceLabsFleeceJacket" finished-at="2024-09-27T17:28:55 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonSauceLabsFleeceJacket -->
+        <test-method signature="clickonaddtocart()[pri:5, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:55 IST" name="clickonaddtocart" finished-at="2024-09-27T17:28:55 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonaddtocart -->
+        <test-method signature="clickongotocart()[pri:6, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:55 IST" name="clickongotocart" finished-at="2024-09-27T17:28:55 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickongotocart -->
+        <test-method signature="clickoncheckout()[pri:7, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:55 IST" name="clickoncheckout" finished-at="2024-09-27T17:28:55 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncheckout -->
+        <test-method signature="clickonfillfirstname()[pri:8, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:55 IST" name="clickonfillfirstname" finished-at="2024-09-27T17:28:55 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonfillfirstname -->
+        <test-method signature="clickonfilllastname()[pri:9, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:55 IST" name="clickonfilllastname" finished-at="2024-09-27T17:28:56 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonfilllastname -->
+        <test-method signature="clickonfillzipcode()[pri:10, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:56 IST" name="clickonfillzipcode" finished-at="2024-09-27T17:28:59 IST" duration-ms="3158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonfillzipcode -->
+        <test-method signature="clickoncontinuebtn()[pri:11, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:28:59 IST" name="clickoncontinuebtn" finished-at="2024-09-27T17:29:02 IST" duration-ms="3201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncontinuebtn -->
+        <test-method signature="clickonfinishbtn()[pri:12, instance:saucedemotest.SauceDemo_test@5b247367]" started-at="2024-09-27T17:29:02 IST" name="clickonfinishbtn" finished-at="2024-09-27T17:29:05 IST" duration-ms="3214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonfinishbtn -->
+      </class> <!-- saucedemotest.SauceDemo_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
